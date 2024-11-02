@@ -3,7 +3,7 @@
 #color = input('Який твій улюблений колір? ')
 #print(f'Ой, {color} це чудовий колір!')
 #print(f'{name} любить {color} колір. Їй/йому {age}')
-
+print("Привіт!")
 noun = input('Іменник  ')
 color = input('Колір  ')
 verb = input('Дієслово  ')
